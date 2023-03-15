@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7107a1cfd9e3f84482b0f221f71bf5b, type: 3}
+  m_Name: Question 3
+  m_EditorClassIdentifier: 
+  question: "Vodi\u010D vozidla, ktor\xE9 je povinne vybaven\xE9 prenosn\xFDm v\xFDstra\u017En\xFDm
+    trojuholn\xEDkom, je povinn\xFD tento trojuholn\xEDk pou\u017Ei\u0165 po\u010Das"
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswerIndex: 0
