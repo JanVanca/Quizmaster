@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7107a1cfd9e3f84482b0f221f71bf5b, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: "Motorov\xEDm vozidlom sa rozumie:"
+  question: What is a correct syntax to output "Hello World" in Java?
   answers:
-  - 1
-  - 2
-  - 3
-  - 4
-  correctAnswerIndex: 0
+  - print ("Hello World");
+  - System.out.println("Hello World");
+  - echo("Hello World");
+  - Console.WriteLine("Hello World");
+  correctAnswerIndex: 1
